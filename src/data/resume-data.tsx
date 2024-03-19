@@ -93,7 +93,7 @@ export const RESUME_DATA = {
       title: "Kelas.work",
       techStack: ["Javascript"],
       description:
-        "Teaching basic javascript for beginner. The syllabus that I teach including Datastructure, OOP, Functional Paradigm on Javascript and DOM",
+        "Teaching basic JavaScript for beginners. The syllabus I cover includes Data Structures, OOP (Object-Oriented Programming), the Functional Paradigm in JavaScript, and the DOM (Document Object Model)",
       logo: undefined,
       link: {
         label: "Kelas.work",
